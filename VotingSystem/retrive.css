@@ -1,0 +1,25 @@
+table{
+     background-color: rgb(160, 12, 123); 
+    padding: 0px;
+    margin: auto;
+    text-align: left;
+    align-items: left;
+    width: 100%;
+}
+td{
+    padding: 1px;
+    text-align: left;
+    align-items: left;
+}
+th{
+    padding: 1px;
+    text-align: left;
+    align-items: left;
+}
+h3{
+    text-align: left;
+}
+tr{
+    background-color: rgb(228, 103, 20);
+    
+}
